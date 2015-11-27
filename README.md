@@ -23,3 +23,6 @@ Prerequisite: ENABLE PAYPAL EXPRESS CHECKOUT MODULE BEFORE ENABLING THIS MODULE.
              
              Sadly, there is no vqmod supported for 2.1.0.1
              https://github.com/vqmod/vqmod/wiki/Installing-vQmod-on-OpenCart
+
+https://github.com/vimalnath53/paypal-ec-incontext/blob/bfe0a5c6105b439717da3f780cfb09796380f6b7/demo.gif
+
