@@ -1,5 +1,5 @@
 ###########################################################
-#         PayPal Express CheckoutIncontext Experience     #
+#         PayPal Express Checkout Incontext Experience    #
 #         INSTALL INSTRUCTIONS     	                      #
 #   							                                        #
 #        								                                  #
