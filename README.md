@@ -1,9 +1,9 @@
-########################################
-#         PayPal Incontext        		#
-#         INSTALL INSTRUCTIONS     	  #
-#   							                    #
-#        								              #
-########################################
+###########################################################
+#         PayPal Express CheckoutIncontext Experience     #
+#         INSTALL INSTRUCTIONS     	                      #
+#   							                                        #
+#        								                                  #
+###########################################################
 
 Prerequisite: ENABLE PAYPAL EXPRESS CHECKOUT MODULE BEFORE ENABLING THIS MODULE.
 
