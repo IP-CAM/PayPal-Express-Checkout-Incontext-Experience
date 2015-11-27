@@ -1,0 +1,17 @@
+########################################
+#         PayPal Incontext        		#
+#         INSTALL INSTRUCTIONS     	   	#
+#   							        #
+#        								#
+########################################
+
+Prerequisite: ENABLE PAYPAL EXPRESS CHECKOUT MODULE BEFORE ENABLING THIS MODULE.
+
+1. Upload the CONTENTS of the 'upload' folder to your Opencart directory!
+
+2. Login to Opencart, go to Extensions -> Modules -> PayPal Express Checkout Incontext Button- > "Install"
+
+3. This module will use the API credentials that is set in PayPal Express Checkout module.
+
+4. Your Done! 
+             
