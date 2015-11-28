@@ -32,10 +32,7 @@ iii) This is built on top of existing PayPal Express Checkout core module.The in
 countries. The supported countries/other specifications are listed here : https://developer.paypal.com/docs/classic/express-checkout/in-context/
 -iv) You will need a version of opencart that already has the Paypal Express extension (1.5.6 or later)
 
-Supported OpenCart Versions:
-================
-1.5.6.x
-2.x
+Supported OpenCart Versions: 1.5.6.x, 2.x
 
 <img src="demo.gif" alt="hi" class="inline"/>
 
