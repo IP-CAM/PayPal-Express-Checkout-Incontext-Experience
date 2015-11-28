@@ -23,12 +23,14 @@ Prerequisite: ENABLE PAYPAL EXPRESS CHECKOUT MODULE BEFORE ENABLING THIS MODULE.
              
              Sadly, there is no vqmod supported for 2.1.0.1
              https://github.com/vqmod/vqmod/wiki/Installing-vQmod-on-OpenCart
+
+
 Features
-- Buyers would see new in-context lightbox experience rather than re-directing to the paypal classic checkout page.
-- Buyers gets a feel that they are not leaving your(merchant) website.
-- This is built on top of existing PayPal Express Checkout core module.The in-context experience is not supported for all the 
+i) Buyers would see new in-context lightbox experience rather than re-directing to the paypal classic checkout page.
+ii) Buyers gets a feel that they are not leaving your(merchant) website.
+iii) This is built on top of existing PayPal Express Checkout core module.The in-context experience is not supported for all the 
 countries. The supported countries/other specifications are listed here : https://developer.paypal.com/docs/classic/express-checkout/in-context/
--You will need a version of opencart that already has the Paypal Express extension (1.5.6 or later)
+-iv) You will need a version of opencart that already has the Paypal Express extension (1.5.6 or later)
 
 Supported OpenCart Versions:
 ================
