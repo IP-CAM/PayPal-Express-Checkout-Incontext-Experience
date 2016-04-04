@@ -8,7 +8,7 @@
 <script>
         window.paypalCheckoutReady = function() {
             paypal.checkout.setup('XXX', {
-            	environment: 'sandbox',
+            	environment: 'live',
                 button: ['t1','t2']
             });
         }
@@ -42,4 +42,4 @@ $( window ).load(function() {
 });
 
 </script>
-<script type="text/javascript" src="catalog/view/javascript/checkout.js"></script>
+<script src="//www.paypalobjects.com/api/checkout.js" async></script>
