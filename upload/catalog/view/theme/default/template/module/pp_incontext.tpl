@@ -8,7 +8,7 @@
 <script>
         window.paypalCheckoutReady = function() {
             paypal.checkout.setup('XXX', {
-            	environment: 'live',
+            	environment: 'production',
                 button: ['t1','t2']
             });
         }
